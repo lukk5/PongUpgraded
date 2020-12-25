@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1dee4dd5_002D4de1_002D42d6_002Db787_002D76235e6778c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestGivePoint&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMoveBall&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMoveBall(9999,9999,False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMoveBall(10,10,True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMoveBall(28,45,False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMoveBall(45,25,True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMoveBall(0,0,True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsBallDirectionWillChangeX&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsBallDirectionWillChangeX(True,False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsBallDirectionWillChangeX(False,True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsBallDirectionWillChangeY&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsBallDirectionWillChangeY(True,False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsBallDirectionWillChangeY(False,True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMovePlayer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMovePlayer(9999,False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMovePlayer(10,True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMovePlayer(28,True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::01137124-904B-4A78-9C8A-40FBDE750B8A::net5.0::UnitTests.MovingLogicTests.TestIsCorrectMovePlayer(0,True)&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
